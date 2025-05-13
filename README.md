@@ -16,6 +16,10 @@ I'm an entry-level software developer with a strong foundation in cybersecurity.
 
 - **[Bookbot](https://github.com/rjwCode/bookbot)**  
   Command-line Python tool that analyzes `.txt` files for word and character frequency.
+  
+- **[Static Site Generator](https://github.com/rjwCode/static_site_generator)**  
+  Markdown-to-HTML site generator with templating, styling, and recursive content parsing.  
+  🌐 [Live Demo](https://rjwCode.github.io/static_site_generator)
 
 ---
 
