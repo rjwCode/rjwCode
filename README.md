@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Ryan Welbaum
 
-I'm an entry-level software developer with a strong foundation in cybersecurity. I’m passionate about building clean, efficient code and growing my skills through real-world software development.
+I'm an entry-level data analyst with a strong foundation in cybersecurity. I’m passionate about creating valuable insights by cleaning, transforming, analyzing, and visualizing data.
 
 ---
 
 ## 🛠️ Skills
 
-- **Languages**: Python (proficient), Java (familiar), C# (familiar), SQL  
-- **Tools & Tech**: Git, GitHub, Visual Studio, SQLite, Linux CLI, Unity  
-- **Concepts**: Object-Oriented Programming, scripting, file I/O, basic web security
+- **Languages**: SQL (Proficient), Python (proficient), Java (familiar), C# (familiar),
+- **Tools & Tech**: Git, GitHub, Visual Studio, SQLite, Linux CLI
+- **Concepts**: SQL querying, data cleaning and transformation, data visualization, Object-Oriented Programming, file I/O
 
 ---
 
@@ -25,10 +25,8 @@ I'm an entry-level software developer with a strong foundation in cybersecurity.
 
 ## 🌱 Currently Learning
 
-- JavaScript & Go  
-- API development  
-- Docker & Kubernetes basics  
-- Test-driven development
+- Power BI
+- Constantly improving SQL skills
 
 ---
 
