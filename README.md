@@ -17,8 +17,8 @@ I'm an entry-level data analyst with a strong foundation in cybersecurity. I’m
 - **[SQL_Data_Cleaning](https://github.com/rjwCode)**  
   SQL Data Cleaning project that demonstrates proficiency and aptitude with SQL.
 
-- **[Data-Visualization-with-Power-BI](https://github.com/rjwCode/Data-Visualization-with-Power-BI)**
-  Power BI project that showcases skills in data cleaning, transformation, visualization, and analysis.
+- **[Data-Visualization-with-Power-BI](https://github.com/rjwCode/Data-Visualization-with-Power-BI)**  
+  Power BI project that showcases skills in data cleaning, transformation, visualization, and analysis.  
   🌐 [Link to Report](https://app.powerbi.com/view?r=eyJrIjoiZGRiZTczNTEtN2YxNC00OGRmLWI3MWUtNDM0YjFiYTgxZmI5IiwidCI6IjNlYTM4YTgyLTZlOGMtNGUzMC05MzcwLWQ3MGMwNDBhM2U5NCJ9)
   
 - **[Static Site Generator](https://github.com/rjwCode/static_site_generator)**  
