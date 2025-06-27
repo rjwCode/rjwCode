@@ -13,8 +13,11 @@ I'm an entry-level data analyst with a strong foundation in cybersecurity. I’m
 ---
 
 ## 📁 Featured Projects
-
-- **[SQL_Data_Cleaning](https://github.com/rjwCode)**  
+- **[Portfolio_Website](https://github.com/rjwCode/Portfolio_Website)**  
+  My portfolio website which displays my Data Analysis projects. Hosted with GitHub Pages.  
+  🌐 [Portfolio Website Link](https://rjwCode.github.io/Portfolio_Website)
+  
+- **[SQL_Data_Cleaning](https://github.com/rjwCode/SQL_Data_Cleaning)**  
   SQL Data Cleaning project that demonstrates proficiency and aptitude with SQL.
 
 - **[Data-Visualization-with-Power-BI](https://github.com/rjwCode/Data-Visualization-with-Power-BI)**  
